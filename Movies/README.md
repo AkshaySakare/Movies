@@ -16,3 +16,8 @@
 •	Gson<br>
 
 ![Alt text](https://github.com/AkshaySakare/Movies/blob/main/Movies/screenshot/Img1.jpeg?raw=true)
+![Alt text](https://github.com/AkshaySakare/Movies/blob/main/Movies/screenshot/Img2.jpeg?raw=true)
+![Alt text](https://github.com/AkshaySakare/Movies/blob/main/Movies/screenshot/Img3.jpeg?raw=true)
+
+
+
