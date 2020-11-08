@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="home">Home</string>
+    <string name="toprated">Top Rated</string>
+    <string name="datewise">Date Wise</string>
+</resources>
