@@ -15,4 +15,4 @@
 •	Glide <br>
 •	Gson<br>
 
-![Alt text](project-screenshots/img1.jpeg?raw=true "Image 1")
+![Alt text](Movies/screenshot/img3.jpeg?raw=true "Image 1")
